@@ -1,6 +1,8 @@
 # scripts
 
 [![CodeFactor](https://www.codefactor.io/repository/github/bkayranci/scripts/badge/master)](https://www.codefactor.io/repository/github/bkayranci/scripts/overview/master)
+![](https://github.com/bkayranci/scripts/workflows/CI/badge.svg?branch=master)
+
 
 The scripts repository combines useful scripts.
 
